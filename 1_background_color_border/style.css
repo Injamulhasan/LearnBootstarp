@@ -19,6 +19,9 @@
 .bbc-4 {
   display: flex;
 }
+.bb-5{
+  display: flex;
+}
 
 div > .border ,.border-top,.border-end,.border-start,.border-bottom,.rounded,.rounded-pill,.rounded-end,.rounded-circle,.rounded-0,.rounded-1{
   height: 100px;
