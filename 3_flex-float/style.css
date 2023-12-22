@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+  border: 5px solid black;
+  /* display: flex; */
+  margin: 15px;
+  background-color: orangered;
+}
+.bd-highlight {
+  background-color: aquamarine;
+  margin: 3px;
+}
+.flex-row {
+  background-color: antiquewhite;
+}
+.flex-column {
+  background-color:brown;
+}
+.flex-row-reverse{
+  background-color:aqua;
+}
+.flex-column-reverse{
+  background-color:palevioletred;
+}
+.div1 {
+  height: 200px;
+}
