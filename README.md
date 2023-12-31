@@ -7,7 +7,8 @@
 </p>
 
 Welcome to the **[Bootstrap](https://getbootstrap.com/) Basics and Classes Code Repository**! This repository is your go-to resource for learning and mastering the fundamental concepts and classes of Bootstrap, a powerful front-end framework for building responsive and visually appealing web applications.<br>
-Some other CSS framework
+
+### Some other CSS framework
 
 - [TailwindCSS](https://tailwindcss.com/) - [Recommended]
 - [Bulma](https://bulma.io/)
